@@ -1,2 +1,1 @@
-# house_sale_prediction
-House Sale Prediction project in Python 
+# Project 1: House Sale Price Prediction
