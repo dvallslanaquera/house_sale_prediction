@@ -5,7 +5,10 @@ In this notebook we will be exploring the Ames Housing dataset, compiled by Dean
 
 The dataset contains both numerical and categorical features. Most of the features present missing values and are messy, so first of all we are going to do some clean-up so we can build our predictive models on the features without problem. 
 
-Before starting crunching numbers, some of the notebooks I've used as inspiration were:
+Some of the points I would highlight about this analysis are:
+*
+
+Some of the notebooks I've used as bibliography for this work were:
 1. [A study on Regression applied to the Ames dataset](https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset) by Pedro Marcelino 
 2. [Regularized Linear Models](https://www.kaggle.com/apapiu/regularized-linear-models) by Alexandru Papiu 
 3. [Stacked Regressions to predict House Prices](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard/notebook) by Serigne 
