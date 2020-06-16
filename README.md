@@ -10,8 +10,8 @@ Some of the strong points I would highlight about this analysis are:
 ![](https://github.com/dvallslanaquera/python_projects/blob/master/images/output_28_0.png)
 * Feature selection process included using Recursive Feature Elimination (RFE)
 ![](https://github.com/dvallslanaquera/python_projects/blob/master/images/output_30_0.png)
-* Stacked predictive model with prompts the average of three tunned models: XGBoots, LightGBM and Gradient Booster.
-* Final RMSE of 0.1139 (std = 0.0053). The result has been cross-validated with a 10-fold Cross Validation algorithm.  
+* **Stacked predictive model** with prompts the average of three tunned models: XGBoots, LightGBM and Gradient Booster.
+* Final **RMSE of 0.1139** (std = 0.0053). The result has been cross-validated with a 10-fold Cross Validation algorithm.  
 
 Some of the notebooks I've used as bibliography for this work were:
 1. [A study on Regression applied to the Ames dataset](https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset) by Pedro Marcelino 
